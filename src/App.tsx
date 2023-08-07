@@ -4,6 +4,7 @@ import logo from './assests/linkedin.svg'
 import { Counter } from './ClickCounter'
 export default function App() {
     const name = "moon"
+    const name = 'moon'
   return (
     <div>
       <h1>
